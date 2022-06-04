@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@500&family=Kanit:wght@300&family=Work+Sans:wght@300&display=swap");
+#page-1 {
+  position: absolute;
+  height: 800px;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 800px;
+  background: linear-gradient(
+      287.15deg,
+      #450e4b 0%,
+      #3c0c41 24.48%,
+      rgba(207, 0, 99, 0) 100%
+    ),
+    #cf0063;
+}
+.logo {
+  position: absolute;
+  height: 43px;
+  left: 10%;
+  top: 3%;
+  border-radius: 0px;
+}
+.links a {
+  font-family: "Gothic A1";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  text-decoration: none;
+  color: white;
+  justify-content: flex-start;
+  margin: 0 20px;
+  font-family: "Work Sans", sans-serif;
+}
+.links {
+  margin-left: 950px;
+  margin-top: 2.5%;
+}
+.idk {
+  margin-left: 10%;
+  margin-top: 5%;
+  font-family: "Work Sans", sans-serif;
+  display: flex;
+  flex-direction: row;
+}
+.fuck {
+  font-family: "Gothic A1";
+  font-size: 5rem;
+  color: white;
+  margin: 15% 0 0 0;
+  font-family: "Work Sans", sans-serif;
+}
+.duck {
+  font-family: "Gothic A1";
+  font-size: 1.7rem;
+  line-height: 44px;
+  color: white;
+  margin: 0;
+  font-family: "Work Sans", sans-serif;
+}
+.idk-button {
+  background: #fc0a7e;
+  border-radius: 3px;
+  color: white;
+  padding: 15px 35px;
+  border: none;
+  font-family: "Work Sans", sans-serif;
+  font-size: 1rem;
+  margin: 10px;
+}
